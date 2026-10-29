@@ -11,9 +11,6 @@ const INDIE = [
     desc: "A mobile app that keeps track of your life: past, present, future events.",
     tech: ["TypeScript", "React", "Expo"],
     links: [{ label: "Watch the demo (YouTube)", url: "" }] }, // paste the YouTube URL here when ready
-  { name: "PanEx", status: "in progress", period: "Oct 5, 2026 – ongoing",
-    desc: "A marketplace to buy and sell items among friends on a Minecraft server.",
-    tech: ["Expo", "React Native", "Supabase"],links: [{ label: "View repository", url: "https://github.com/panera-exchange/panera-exchange.github.io" }] },
   { name: "News2PDF", status: "suspended", period: "Oct 2025 – Dec 2025",
     desc: "Generates a personalized newspaper, downloadable as a PDF, from your favorite news sites.",
     tech: [], links: [] },
